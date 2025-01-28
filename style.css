@@ -1,6 +1,9 @@
 footer{
     position: fixed;
+    color: black;
+    background-color: black;
 }
-h1{
-
+body {
+    background-image: url(img.jpg);
+    color: white;
 }
