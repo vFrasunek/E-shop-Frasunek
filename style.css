@@ -1,9 +1,10 @@
 footer{
     position: fixed;
-    color: black;
-    background-color: black;
+    left: 0%;
+    right: 0%;
+    color: grey;
 }
-body {
-    background-image: url(img.jpg);
-    color: white;
+nav{
+   position: fixed;
+    color: grey;
 }
